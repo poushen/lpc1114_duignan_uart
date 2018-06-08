@@ -3,6 +3,8 @@
 // Written by Ted Burke (based on code by Frank Duignan)
 // Last updated 29-11-2013
 //
+// add uart feature by poushen 08-Jun-2018
+//
 
 #include "lpc111x.h"
 #include <stdint.h>
